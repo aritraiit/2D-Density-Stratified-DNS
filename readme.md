@@ -46,5 +46,5 @@ $$\frac{\partial \rho}{\partial t} + \mathbf{u} \cdot \nabla \rho = \frac{1}{Re_
 
 Below is a visualization showcasing the evolved flow fields, highlighting the complex interplay between small-scale turbulent structures, internal gravity waves, and density stratification:
 
-![2D Stratified Fluid Turbulence Visualization]("D:\github documents\stratified2d_dns\contourmap.png")
+![2D Stratified Fluid Turbulence Visualization](contourmap.png)
 
